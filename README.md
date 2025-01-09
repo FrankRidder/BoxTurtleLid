@@ -25,7 +25,7 @@ I'm also creating a version to allow the triangular side panels to replaced with
 
 Build photos...
 
-![Img1](images/btl1.jpg)
+![Img1](/images/btl1.jpg)
 ![Img1](images/btl2.jpg)
 ![Img1](images/btl3.jpg)
 ![Img1](images/btl4.jpg)
