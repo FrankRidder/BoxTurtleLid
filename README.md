@@ -47,15 +47,20 @@ Front: 370 x 154
 Rear: 370 x 54
 Sides(x2): 216(topedge) x 165 (BackEdge) x 66 (FrontEdge) x 232 (SlantedBase)
 
-Screws..
+### Screws..
 
 6x m3 8mm
+
 6x m3 8mm
+
 2x m3 heatset inserts
 
-Hinges:
+### Hinges:
+
 6x m3 15mm
+
 12x m3 tnuts
+
 12x m3 6mm
 
 
