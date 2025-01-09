@@ -28,12 +28,12 @@ Build photos...
 ![Img1](/images/btl1.jpg)
 ![Img1](images/btl2.jpg)
 ![Img1](images/btl3.jpg)
-![Img1](images/btl4.jpg)
-![Img1](images/btl5.jpg)
-![Img1](images/btl6.jpg)
-![Img1](images/btl7.jpg)
-![Img1](images/btl8.jpg)
-![Img1](images/btl9.jpg)
+![Img1](images/btl4.JPG)
+![Img1](images/btl5.JPG)
+![Img1](images/btl6.JPG)
+![Img1](images/btl7.JPG)
+![Img1](images/btl8.JPG)
+![Img1](images/btl9.JPG)
 ---
 
 ## BOM
@@ -69,11 +69,11 @@ Note that several of the STL require the addition of supports. Alignment and add
 1. Place a 3m heat insert into the two angled 2020 pieces.
 
 2. Remove one of the rear legs, this will be replaced.
-![Img1](images/btl4.jpg)
+![Img1](images/btl4.JPG)
 
 Before replacing, insert the angular 2020 looking piece into the 2020 extrusion as show.
 
-![Img1](images/btl5.jpg)
+![Img1](images/btl5.JPG)
 
 3. Insert the triangular side panel.
 
@@ -81,14 +81,14 @@ Before replacing, insert the angular 2020 looking piece into the 2020 extrusion 
 
 Replace the leg.
 
-![Img1](images/btl6.jpg)
+![Img1](images/btl6.JPG)
 
 NOTE: The insertion of lights, and covering of the leg is the same as the original BoxTurtle instruction (only longer) - so these details arn't covered here.
 
 5. Repeat steps (1-4) for the other rear leg.
 
 6. Insert the rear panel(s) and attach the top 2020 extrusion
-![Img1](images/btl8.jpg)
-![Img1](images/btl9.jpg)
+![Img1](images/btl8.JPG)
+![Img1](images/btl9.JPG)
 
 WIP...
