@@ -123,6 +123,7 @@ NOTE: The insertion of lights, and covering of the leg is the same as the origin
 
 ### Top Hat
 
+
 ![Img1](images/btl3.jpg)
 
 1. The two sidebars can be screwed into the lower 2020 extrusions as shown
