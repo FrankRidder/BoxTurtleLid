@@ -7,7 +7,8 @@ Requires 4 additional 2020 360mm aluminum extrusion - a printed alternative is i
 
 Additionally 5 x 3mm acrylic panels are required.
 
-[![alt text](https://youtube.com/shorts/PpAaRm0n1hM)](https://youtube.com/shorts/PpAaRm0n1hM)
+<video src="images/vid.mp4" width="320" height="240" controls></video>
+[![Video](https://youtube.com/shorts/PpAaRm0n1hM)](https://youtube.com/shorts/PpAaRm0n1hM)
 
 ## Current status
 
