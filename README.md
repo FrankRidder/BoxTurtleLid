@@ -19,6 +19,8 @@ Build photos...
 
 Here's the basic build of the hat, without heater.
 
+ <img src="images/btl1.jpg" alt="images/btl1.jpg" width="200">
+ 
 ![Img1](images/btl1.jpg | width=200)
 ![Img1](images/btl2.jpg | width=200)
 
