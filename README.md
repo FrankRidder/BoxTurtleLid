@@ -31,7 +31,7 @@ All other components are printed. (I'd suggest ABS or ASA if using heater).
 
 The build requires the replacement of the two rear corners with longer versions
 
-<img src="images/btl4.jpg" alt=" " width="200">
+<img src="images/btl4.jpg" alt="images/btl4.jpg" width="200">
 <img src="images/btl5.jpg" alt=" " width="200">
 <img src="images/btl6.jpg" alt=" " width="200">
 <img src="images/btl7.jpg" alt=" " width="200">
