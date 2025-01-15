@@ -1,27 +1,19 @@
 # BoxTurtleLid
 Lid / Hat for BoxTurtle Automated Filament
 
-Simple lid for the BoxTurtle.
+Simple lid for the BoxTurtle, with option for filament dryer using a Polydryer base.
 
 Requires 4 additional 2020 360mm aluminum extrusion - a printed alternative is included (Printable2020Extrusion) if prefered.
 
 Additionally 5 x 3mm acrylic panels are required.
 
+<iframe width="560" height="315" src="https://youtube.com/shorts/PpAaRm0n1hM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-THIS PROJECT IS CURRENTLY IN DEVELOPMENT - I WILL UPDATE HERE ONCE COMPLETED.
-
-HOWEVER ALL STL's ARE CORRECT AT THIS POINT.
-
-
+<video src="/images/vid.mp4" width="320" height="240" controls></video>
 
 ## Current status
 
-Design is complete, I'm just waiting on some additional 2020 to complete the lid build.
-
-I'm also creating a version to allow the triangular side panels to replaced with air-ports for a polymaker polydryer addition.
-
+Design is now complete.
 
 Build photos...
 
