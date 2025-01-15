@@ -29,23 +29,23 @@ All other components are printed. (I'd suggest ABS or ASA if using heater).
 
 The build requires the replacement of the two rear corners with longer versions
 
-![Img1](images/btl4.JPG){width=200}
-![Img1](images/btl5.JPG){width=200}
-![Img1](images/btl6.JPG){width=200}
-![Img1](images/btl7.JPG){width=200}
+![Img1](images/btl4.jpg){width=200}
+![Img1](images/btl5.jpg){width=200}
+![Img1](images/btl6.jpg){width=200}
+![Img1](images/btl7.jpg){width=200}
 
 An additional rear panel(s) are provided - along with the triangular side panels. 
 
-![Img1](images/btl8.JPG){width=200}
-![Img1](images/btl9.JPG){width=200}
+![Img1](images/btl8.jpg){width=200}
+![Img1](images/btl9.jpg){width=200}
 
 If making the heater version, then these are replaceable using magnets. See video - 
 [Video Here](https://youtube.com/shorts/PpAaRm0n1hM)
 
-![Img1](images/IMG_3986.JPG){width=200}
-![Img1](images/IMG_3990.JPG){width=200}
-![Img1](images/IMG_3991.JPG){width=200}
-![Img1](images/IMG_3992.JPG){width=200}
+![Img1](images/IMG_3986.jpg){width=200}
+![Img1](images/IMG_3990.jpg){width=200}
+![Img1](images/IMG_3991.jpg){width=200}
+![Img1](images/IMG_3992.jpg){width=200}
 
 The heater is mounted on the rear just above the outbound ptfe tube on a clipped on table.
 
@@ -97,11 +97,11 @@ Note that several of the STL require the addition of supports. Alignment and add
 1. Place a 3m heat insert into the two angled 2020 pieces.
 
 2. Remove one of the rear legs, this will be replaced.
-![Img1](images/btl4.JPG){width=200}
+![Img1](images/btl4.jpg){width=200}
 
 Before replacing, insert the angular 2020 looking piece into the 2020 extrusion as show.
 
-![Img1](images/btl5.JPG){width=200}
+![Img1](images/btl5.jpg){width=200}
 
 3. Insert the triangular side panel.
 
@@ -109,42 +109,42 @@ Before replacing, insert the angular 2020 looking piece into the 2020 extrusion 
 
 Replace the leg.
 
-![Img1](images/btl6.JPG){width=200}
+![Img1](images/btl6.jpg){width=200}
 
 NOTE: The insertion of lights, and covering of the leg is the same as the original BoxTurtle instruction (only longer) - so these details arn't covered here.
 
 5. Repeat steps (1-4) for the other rear leg.
 
 6. Insert the rear panel(s) and attach the top 2020 extrusion
-![Img1](images/btl8.JPG){width=200}
-![Img1](images/btl9.JPG){width=200}
+![Img1](images/btl8.jpg){width=200}
+![Img1](images/btl9.jpg){width=200}
 
 7. Clip the TPU seals into the front and rear 2020 extrusions. This is a simple press fit.
 
 ### Top Hat
 
-![Img1](images/btl3.JPG)
+![Img1](images/btl3.jpg)
 
 1. The two sidebars can be screwed into the lower 2020 extrusions as shown
 
-![Img1](images/s1.JPG){width=200}
+![Img1](images/s1.jpg){width=200}
 
 
 2. The two rear-uprights prints in a U shape, for insertion into the top and bottom 2020 extrusions.
 
-![Img1](images/ru2.JPG){width=200}
+![Img1](images/ru2.jpg){width=200}
 
 Insert as shown below - inserting the rear clear panel at this point.
 
-![Img1](images/ru.JPG){width=200}
+![Img1](images/ru.jpg){width=200}
 
 3. Repeat for the front-uprights inserting the front clear panel at the same time.
 
-![Img1](images/fu.JPG){width=200}
+![Img1](images/fu.jpg){width=200}
 
 4. Insert the left panel, and attach the left HatSideBar (upper bar), this screws into the two 2020 extrusions
 
-![Img1](images/sa.JPG){width=200}
+![Img1](images/sa.jpg){width=200}
 
 5. Finally insert the top and remaining side clear panels, the right HatSideBar can now be attached.
 Note: this will require some of the surrounding bolts to be loosened to allow the panels to fit into the sidebar.
