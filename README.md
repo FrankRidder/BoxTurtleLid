@@ -3,7 +3,9 @@ Lid / Hat for BoxTurtle Automated Filament
 
 Simple lid for the BoxTurtle, with option for filament dryer using a Polydryer base.
 
-Requires 4 additional 2020 360mm aluminum extrusion - a printed alternative is included (Printable2020Extrusion) if prefered.
+Requires 3 additional 2020 360mm aluminum extrusion - a printed alternative is included (Printable2020Extrusion) if prefered.
+
+Note: The 2020 extrusion for the base front of the lid should either be printed, or some modification will be required to close correctly over the four lightboxes.
 
 Additionally 5 x 3mm acrylic panels are required.
 
