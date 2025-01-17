@@ -59,34 +59,34 @@ The heater is mounted on the rear just above the outbound ptfe tube on a clipped
 
 ## BOM
 
-4 x 2020 Extrusion 360mm (Note: Can optionally 4e printed - see stl's)
-
-3mm Clear acylic panel cut as follows..
-
-Top: 370 x 225
-Front: 370 x 154
-Rear: 370 x 54
-Sides(x2): 216(topedge) x 165 (BackEdge) x 66 (FrontEdge) x 232 (SlantedBase)
+- 4 x 2020 Extrusion 360mm (Note: Can optionally 4e printed - see stl's)
+> 3mm Clear acylic panel cut as follows..
+- Top: 370 x 225
+- Front: 370 x 154
+- Rear: 370 x 54
+- Sides(x2): 216(topedge) x 165 (BackEdge) x 66 (FrontEdge) x 232 (SlantedBase)
 
 ### Screws..
 
-6x m3 8mm
-
-6x m3 8mm
-
-2x m3 heatset inserts
+- 6x m3 8mm
+- 6x m3 8mm
+- 2x m3 heatset inserts
 
 ### Hinges:
 
-6x m3 15mm
+- 6x m3 15mm
+- 12x m3 tnuts
+- 12x m3 6mm
 
-12x m3 tnuts
+### Heater addition (if used)
 
-12x m3 6mm
+- 54 x 6x3 magnets (cheap ones - neodymium magnets NOT needed)
 
-Heater addition
+### Bottom Cover (if used)
 
-54 x 6x3 magnets (cheap ones - neodymium magnets NOT needed)
+- 28x 6x3 magnets
+- 14x m3 8mm screws
+- 14x m3 tnuts
 
 ---
 ## Print Notes
