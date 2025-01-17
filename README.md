@@ -161,7 +161,7 @@ Re-tighten the bolts.
 
 The stl/BaseCover folder contains files for creating a simple magnetic snap-on base cover.
 
-<img src="IMG_4005.JPG" alt=" " width="200">
+<img src="images/IMG_4005.JPG" alt=" " width="200">
 
 [Video Here](https://youtube.com/shorts/HE4AY-ndGrg)
 
