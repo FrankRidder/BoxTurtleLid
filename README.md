@@ -157,3 +157,23 @@ Note: this will require some of the surrounding bolts to be loosened to allow th
 Re-tighten the bolts.
 
 
+### Base cover
+
+The stl/BaseCover folder contains files for creating a simple magnetic snap-on base cover.
+
+<img src="IMG_4005.JPG" alt=" " width="200">
+
+[Video Here](https://youtube.com/shorts/HE4AY-ndGrg)
+
+The Base.3mf file contains the slicer settings needed to create the hex pattern on the base.
+
+Alternatively, open the left stl file in a slicer and split-to-parts. 
+The inner part needs modifying to have 
+
+- zero wall-loops, top-shell-layers and bottom-shell-layers.
+- Sparse-Infill pattern: Honeycomb at 10%
+
+Repeat this for the right stl.
+
+
+
