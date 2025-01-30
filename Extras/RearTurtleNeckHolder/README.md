@@ -1,8 +1,6 @@
 # BoxTurtleLid - EXTRAS
 
-# Plugin wire clip holder
-
-Simple rear turtle neck holder
+# Rear Turtle Neck Holder
 
 <img src="images/image1.jpg" alt="images/image1.jpg" width="200">
 
