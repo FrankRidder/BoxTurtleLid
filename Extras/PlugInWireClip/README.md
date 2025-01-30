@@ -14,8 +14,8 @@ If bottom facing mounts required, then just mirror the part in the slicer.
 
 <img src="images/image1.jpg" alt="images/image1.jpg" width="200">
 
-<img src="images/image1.jpg" alt="images/image2.jpg" width="200">
+<img src="images/image2.jpg" alt="images/image2.jpg" width="200">
 
-<img src="images/image1.jpg" alt="images/image3.jpg" width="200">
+<img src="images/image3.jpg" alt="images/image3.jpg" width="200">
 
 [video](https://www.youtube.com/watch?v=fOTQHvDfOQY)
