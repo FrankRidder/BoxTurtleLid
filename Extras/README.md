@@ -1,0 +1,3 @@
+# BoxTurtleLid - EXTRAS
+
+This folder contains some extra designs I've used in my BoxTurtle build...
