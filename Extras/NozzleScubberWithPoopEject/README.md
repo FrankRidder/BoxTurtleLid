@@ -34,13 +34,13 @@ Magnets ensure the scrubber stays in place when not in use.
 
 # BOM
 
-2x 4mmx5.7mm Magnets
-7x 6mm m3 bolts (holding bearings, and brush stop)
-8x 10mm m3 bolts (L bracket assembly)
-2x 10mm m4 bolts
-2x m4 2020-slidein nuts
-6x MR63ZZ bearings
-Self-Fusing silicone tape
+- 2x 4mmx5.7mm Magnets
+- 7x 6mm m3 bolts (holding bearings, and brush stop)
+- 8x 10mm m3 bolts (L bracket assembly)
+- 2x 10mm m4 bolts
+- 2x m4 2020-slidein nuts
+- 6x MR63ZZ bearings
+- Self-Fusing silicone tape
 
 # Build Notes.
 
