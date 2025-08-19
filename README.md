@@ -1,13 +1,13 @@
 # BoxTurtleLid
 Lid / Hat for BoxTurtle Automated Filament
 
-Simple lid for the BoxTurtle, with option for filament dryer using a Polydryer base.
+Simple lid for the BoxTurtle, with an option for filament dryer using a Polydryer base.
 
-Requires 3 additional 2020 360mm aluminum extrusion - a printed alternative is included (Printable2020Extrusion) if prefered.
+Requires 4 additional 2020 360mm aluminum extrusions - a printed alternative is included (Printable2020Extrusion) if preferred.
 
 Note: The 2020 extrusion for the base front of the lid should either be printed, or some modification will be required to close correctly over the four lightboxes.
 
-Additionally 5 x 3mm acrylic panels are required.
+Additionally, 5 x 3mm acrylic panels are required.
 
 [Video Here](https://youtube.com/shorts/PpAaRm0n1hM)
 
@@ -19,14 +19,14 @@ Design is now complete.
 
 Build photos...
 
-Here's the basic build of the hat, without heater.
+Here's the basic build of the hat, without a heater.
 
  <img src="images/btl1.jpg" alt="images/btl1.jpg" width="200">
  
 <img src="images/btl1.jpg" alt="images/btl1.jpg" width="200">
 <img src="images/btl2.jpg" alt="images/btl2.jpg" width="200">
 
-The four long extrusions may be 3d printed if required (see stl/Printable2020Extrusions)
+The five long extrusions may be 3d printed if required (see stl/Printable2020Extrusions)
 All other components are printed. (I'd suggest ABS or ASA if using heater).
 
 <img src="images/btl3.jpg" alt="images/btl3.jpg" width="200">
@@ -51,7 +51,7 @@ If making the heater version, then these are replaceable using magnets. See vide
 <img src="images/IMG_3991.jpg" alt=" " width="200">
 <img src="images/IMG_3992.jpg" alt=" " width="200">
 
-The heater is mounted on the rear just above the outbound ptfe tube on a clipped on table.
+The heater is mounted on the rear just above the outbound PTFE tube on a clipped-on table.
 
 <img src="images/dryermount.jpg" alt=" " width="200">
 
@@ -59,8 +59,8 @@ The heater is mounted on the rear just above the outbound ptfe tube on a clipped
 
 ## BOM
 
-- 4 x 2020 Extrusion 360mm (Note: Can optionally 4e printed - see stl's)
-> 3mm Clear acylic panel cut as follows..
+- 4 x 2020 Extrusion 360mm (Note: 5th on should be printed, the others can optionally be printed - see stl's)
+> 3mm Clear acylic panel cut as follows:
 - Top: 370 x 225
 - Front: 370 x 154
 - Rear: 370 x 54
@@ -70,12 +70,12 @@ The heater is mounted on the rear just above the outbound ptfe tube on a clipped
 
 - 6x m3 8mm
 - 6x m3 8mm
-- 2x m3 heatset inserts
+- 2x m3 heatset inserts (12 when using printed extrusion, 24 when using the printed extrusion with holes for the hinges)
 
 ### Hinges:
 
 - 6x m3 15mm
-- 12x m3 tnuts
+- 12x m3 tnuts (non when using printed extrusion with holes)
 - 12x m3 6mm
 
 ### Heater addition (if used)
@@ -91,7 +91,7 @@ The heater is mounted on the rear just above the outbound ptfe tube on a clipped
 ---
 ## Print Notes
 
-Note that several of the STL require the addition of supports. Alignment and addition of supports I leave to user.
+Note that several of the STL require the addition of supports. Alignment and addition of supports are left to the user.
 
 
 ## Build Instructions
@@ -127,8 +127,7 @@ NOTE: The insertion of lights, and covering of the leg is the same as the origin
 
 ### Top Hat
 
-
-<img src="images/btl3.jpg)
+<img src="images/btl3.jpg" alt=" " width="200">
 
 1. The two sidebars can be screwed into the lower 2020 extrusions as shown
 
@@ -151,10 +150,10 @@ Insert as shown below - inserting the rear clear panel at this point.
 
 <img src="images/sa.jpg" alt=" " width="200">
 
-5. Finally insert the top and remaining side clear panels, the right HatSideBar can now be attached.
-Note: this will require some of the surrounding bolts to be loosened to allow the panels to fit into the sidebar.
+5. Finally, insert the top and remaining side clear panels, the right HatSideBar can now be attached.
+Note: This will require some of the surrounding bolts to be loosened to allow the panels to fit into the sidebar.
 
-Re-tighten the bolts.
+6. Re-tighten the bolts.
 
 
 ### Base cover
