@@ -3,7 +3,7 @@ Lid / Hat for BoxTurtle Automated Filament
 
 Simple lid for the BoxTurtle, with an option for filament dryer using a Polydryer base.
 
-Requires 4 additional 2020 360mm aluminum extrusions - a printed alternative is included (Printable2020Extrusion) if preferred.
+Requires 5 additional 2020 360mm aluminum extrusions; printed alternatives are included (see STL/Printable2020Extrusions) if preferred.
 
 Note: The 2020 extrusion for the base front of the lid should either be printed, or some modification will be required to close correctly over the four lightboxes.
 
@@ -70,7 +70,7 @@ The heater is mounted on the rear just above the outbound PTFE tube on a clipped
 
 - 6x m3 8mm
 - 6x m3 8mm
-- 2x m3 heatset inserts (12 when using printed extrusion, 24 when using the printed extrusion with holes for the hinges)
+- 2x m3 heatset inserts (12 when using printed extrusion, 24 when using the printed extrusion with holes for hinges)
 
 ### Hinges:
 
@@ -98,7 +98,7 @@ Note that several of the STL require the addition of supports. Alignment and add
 
 ### BT modifications
 
-1. Place a 3m heat insert into the two angled 2020 pieces.
+1. Place an m3 heat insert into the two angled 2020 pieces, as well as any printed extrusions, in the ends, as well as in the holes for hinges.
 
 2. Remove one of the rear legs, this will be replaced.
 <img src="images/btl4.jpg" alt=" " width="200">
@@ -109,15 +109,15 @@ Before replacing, insert the angular 2020 looking piece into the 2020 extrusion 
 
 3. Insert the triangular side panel.
 
-4. Ensure the new longer leg is the correct side. The top hole which connects to the heatset insert is smaller than the other holes.
+4. Ensure the new longer leg is on the correct side. The top hole which connects to the heatset insert is smaller than the other holes.
 
 Replace the leg.
 
 <img src="images/btl6.jpg" alt=" " width="200">
 
-NOTE: The insertion of lights, and covering of the leg is the same as the original BoxTurtle instruction (only longer) - so these details arn't covered here.
+NOTE: The insertion of lights, and covering of the leg is the same as the original BoxTurtle instruction (only longer) - so these details aren't covered here.
 
-5. Repeat steps (1-4) for the other rear leg.
+5. Repeat steps (2-4) for the other rear leg.
 
 6. Insert the rear panel(s) and attach the top 2020 extrusion
 <img src="images/btl8.jpg" alt=" " width="200">
@@ -134,7 +134,7 @@ NOTE: The insertion of lights, and covering of the leg is the same as the origin
 <img src="images/s1.jpg" alt=" " width="200">
 
 
-2. The two rear-uprights prints in a U shape, for insertion into the top and bottom 2020 extrusions.
+2. The two rear-uprights print in a U shape, for insertion into the top and bottom 2020 extrusions.
 
 <img src="images/ru2.jpg" alt=" " width="200">
 
